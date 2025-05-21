@@ -1,0 +1,55 @@
+,dataset,question,answer,question_type
+0,line_data.csv,"What was the price of a barrel of oil in February 2015? Options: $57.36, $47.82, $50.24, $39.72, Omit",$50.24,Retrieve Value
+1,line_data.csv,"In which month was the price of a barrel of oil the lowest in 2015? Options: March, May, July,December, Omit",December,Find Extremum
+2,line_data.csv,"What was the price range of a barrel of oil in 2015? Options: $35 - $65, $48.36 - $60.95, $37.04 - $48.36, $37.04 - $60.95, Omit",$37.04 - $60.95 ,Determine Range
+3,line_data.csv,"Over the course of the second half of 2015, the price of a barrel of oil was ____________. Options: rising, falling, staying, Omit",falling,Find Correlations/Trends
+4,line_data.csv,"About how much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit",$15,Make Comparisons
+5,bar_data.csv,"What is the average internet speed in Japan? Options: 10 Mbps, 14 Mbps, 15 Mbps, 16 Mbps, Omit",15 Mbps,Retrieve Value
+6,bar_data.csv,"In which country is the average internet speed the fastest in Asia? Options: China, Hong Kong, South Korea, Vietnam, Omit",South Korea,Find Extremum
+7,bar_data.csv,"What is the range of the average internet speed in Asia? Options: 0 - 22 Mbps, 2 - 20.5 Mbps, 3 - 20 Mbps, 3.4 - 7.8 Mbps, Omit",2 - 20.5 Mbps ,Determine Range
+8,bar_data.csv,"How many countries in Asia is the average internet speed slower than Thailand? Options: 5 countries, 6 countries, 7 countries, 8 countries, Omit",7 countries,Make Comparisons
+9,stacked_bar_data.csv,"What is the cost of peanuts in Las Vegas? Options: $12, $16.7, $23.4, $35.4, Omit", $12,Retrieve Value
+10,stacked_bar_data.csv,"About what is the ratio of the cost of a sandwich to the total cost of room service in Seattle? Options: 1 to 10, 2 to 10, 4 to 10, 6 to 10, Omit", 4 to 10 ,Retrieve Value
+11,stacked_bar_data.csv,"In which city is the cost of soda the highest? Options: New York City, Las Vegas, Atlanta, Washington D.C., Omit", Washington D.C.,Find Extremum
+12,stacked_bar_data.csv,"What is the cost range of a sandwich in the cities? Options: $0 - $24.2, $0 - $55.9, $13 - $24.2, $17 - $35.2 The cost of vodka in Atlanta is higher than that of Honolulu. Options: True, False, Omit", $13 - $24.2,Determine Range
+13,stacked_bar_data.csv,"The ratio of the cost of Soda to the cost of Water in Orlando is higher than that of Washington D.C. Options: True, False, Omit",True,Make Comparisons
+14,100_stacked_bar_data.csv,"What is the approval rating of Republicans among the people who have the education level of Postgraduate Study? 38%, 47%, 53%, 62%, Omit",38%,Retrieve Value
+15,100_stacked_bar_data.csv,"What is the education level of people in which the Democrats have the lowest approval rating? Options: High School Graduate or Less, Some College Degree, College Graduate, Postgraduate study, Omit", College Graduate,Find Extremum
+16,100_stacked_bar_data.csv,"The approval rating of Republicans for the people who have the education level of Some College Degree is lower than that for the people who have the education level of Postgraduate Study. Options: True, False, Omit", False ,Make Comparisons
+17,pie_data.csv,"About what is the global smartphone market share of Samsung? Options: 15%, 25%, 33%, 50%, Omit", 25%,Retrieve Value
+18,pie_data.csv,"In which company is the global smartphone market share the smallest? Options: Apple, Xiaomi, Lenovo, Others, Omit", Lenovo ,Find Extremum
+19,pie_data.csv,"The global smartphone market share of Apple is larger than that of Huawei. Options: True, False, Omit",True,Make Comparisons
+20,histogram_data.csv,"How many people have rated the taxi between 4.0 and 4.2? Options: 145, 153, 200, 240, Omit", 153,Retrieve Value
+21,histogram_data.csv,"What is the rating that the people have rated the taxi the most? Options: 4.2 - 4.4, 4.4 - 4.6, 4.6 - 4.8, 4.8 - 5.0, Omit",4.4 - 4.6 ,Find Extremum
+22,histogram_data.csv,"The distribution of the taxi passenger rating is generally skewed to the left. Options: True, False", True ,Characterize Distribution
+23,histogram_data.csv,"More people have rated the taxi between 4.6 and 4.8 than between 4.2 and 4.4. Options: True, False, Omit", True ,Make Comparisons
+24,histogram_data.csv,"How many people have rated the taxi 4.9? Optionns: 200, 240, 345, Cannot be inferred", Cannot be inferred ,Identify the Characteristic of Bins
+25,scatterplot_data.csv,"What is the weight for the person who is 165.1 cm tall? Options: 53.9 kg, 67.7 kg, 70.5 kg, 82.7 kg, Omit", 70.5 kg,Retrieve Value
+26,scatterplot_data.csv,"What is the height for the tallest person among the 85 males? Options: 175.3 cm, 192 cm, 197.1 cm, 200 cm, Omit",197.1 cm,Find Extremum
+27,scatterplot_data.csv,"What is the range in weight for the 85 males? Options: 40 - 130 kg, 62.3 - 90.9 kg, 53.9 - 102.3 kg, 53.9 - 123.6 kg, Omit", 53.9 - 123.6 kg,Determine Range
+28,scatterplot_data.csv,"What is the height for a person who lies outside the others the most? Options: 167.4 cm, 175.3 cm, 193 cm, 197.1 cm, Omit",175.3 cm ,Find Anomalies
+29,scatterplot_data.csv,"A group of males are gathered around the height of 176 cm and the weight of 70 kg. Options: True, False, Omit",True ,Find Clusters
+30,scatterplot_data.csv,"There is a negative linear relationship between the height and the weight of the 85 males. Options: True, False, Omit", False,Find Correlations/Trends
+31,scatterplot_data.csv,"The weights for males with the height of 188 cm are all the same. Options: True, False, Omit", False,Make Comparisons
+32,area_data.csv,"What was the average price of a pound of coffee beans in September 2013? Options: $4.9, $5.0, $5.1, $5.2, Omit",$5.1,Retrieve Value
+33,area_data.csv,"When was the average price of a pound of coffee beans at minimum? Options: April 2013, September 2013, June 2014, December 2014, Omit",December 2014,Find Extremum
+34,area_data.csv,"What was the range of the average price of a pound of coffee beans between January 2013 and December 2014? Options: $4.4 - $6.2, $4.6 - $5.9, $4.6 - $6.0, $4.6 - $6.1, Omit", $4.6 - $6.0,Determine Range
+35,area_data.csv,"Over the course of 2013, the average price of a pound of coffee beans was ____________. Options: rising, falling, staying, Omit", falling,Find Correlations/Trends
+36,area_data.csv,"For how many months was the average price of a pound of coffee beans cheaper than that in December 2013? Options: 3 months, 4 months, 5 months, 6 months, Omit ", 3 months ,Make Comparisons
+37,stacked_area_data.csv,"What was the number of girls named ‘Amelia’ in 2010 in the UK? Options: 1,500, 3,800, 4,200, 8,000, Omit"," 4,200",Retrieve Value
+38,stacked_area_data.csv,"About what was the ratio of the number of girls named ‘Olivia’ to those named ‘Isla’ in 2014 in the UK? Options: 1 to 1, 1 to 2, 1 to 3, 1 to 4, Omit", 1 to 1,Retrieve Value
+39,stacked_area_data.csv,"Over the course of years between 2009 and 2014, when was the number of girls named ‘Amelia’ at the maximum? Options: 2009, 2011, 2012, 2014, Omit",2012,Find Extremum
+40,stacked_area_data.csv,"Over the course of years between 2009 and 2014, what was the range of the number of girls named ‘Olivia’? Options: 1200-4700, 1200-8700, 1800-4000, 3000-8700The number of girls named ‘Isla’ was __________ from 2009 to 2012. Options: rising, falling, staying, Omit"," 1,200 - 4,700 ",Determine Range
+41,stacked_area_data.csv,"In the UK, the number of girls named ‘Amelia’ in 2014 was more than it was in 2013. Options: True, False, Omit", rising,Make Comparisons
+42,stacked_area_data.csv,"Over the course of years between 2009 and 2014, the number of girls named ‘Isla’ was always more than ‘Olivia’. Options: True, False, Omit", False,Make Comparisons
+43,bubble_data.csv,"What is the total length of the metro system in Beijing? Options: 330 km, 400 km, 530 km, 560 km, Omit", 530 km,Retrieve Value
+44,bubble_data.csv,"Which city’s metro system has the largest number of stations? Options: Seoul, Beijing, New York City, Shanghai, Omit",New York City,Find Extremum
+45,bubble_data.csv,"What is the range of the total length of the metro systems? Options: 150 - 600 km, 240 - 380 km, 240 - 560 km, 180 - 560 km, Omit",180 - 560 km,Determine Range
+46,bubble_data.csv,"In general, the number of stations of the metro systems of the world is evenly distributed. Options: True, False, Omit",True,Characterize Distribution
+47,bubble_data.csv,"Which city’s metro system does lie outside the relationship between the total system length and the number of stations most? Options: Tokyo, New York City, Beijing, London, Omit",New York City,Find Anomalies
+48,bubble_data.csv,"A group of the metro systems of the world has approximately 300 stations and around a 200 km system length. Options: True, False, Omit",False,Find Clusters
+49,bubble_data.csv,"In general, the ridership of the metro system increases as the number of stations increases. Options: True, False, Omit",False,Find Correlations/Trends
+50,bubble_data.csv,"The metro system in Shanghai has more ridership than the metro system in Beijing. Options: True, False, Omit",False,Make Comparisons
+51,unemployment_states.csv,"What was the unemployment rate for Indiana (IN) in 2015? Options: 1.1% - 2.3%, 2.3% - 3.4%, 3.4% - 4.6%, 4.6% - 5.7%, Omit",3.4% - 4.6%,Retrieve Value
+52,unemployment_states.csv,"In which state was the unemployment rate the highest in 2015? Options: Alaska (AK), New Mexico (NM), Florida (FL), New York (NY), Omit",New Mexico (NM),Find Extremum
+53,unemployment_states.csv,"In 2015, the unemployment rate for Washington (WA) was higher than that of Wisconsin (WI). Options: True, False, Omit",True,Make Comparisons
