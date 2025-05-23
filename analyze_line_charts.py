@@ -64,21 +64,3 @@ def filter_color_red_rows(df):
     print(red_rows)
     return red_rows
 
-# === Optional runner ===
-if __name__ == "__main__":
-    df = load_line_rows()
-
-    count_unique_questions(df)
-    list_questions(df)
-
-    question_distribution(df)
-
-    target = "About how much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit"
-    matching_rows = get_matching_question_rows(df, target)
-
-    matching_rows.info()
-    check_duplicates(matching_rows)
-
-    color_usage_summary(matching_rows)
-    list_used_colors(matching_rows)
-    filter_color_red_rows(matching_rows)
