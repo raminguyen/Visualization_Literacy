@@ -5,7 +5,7 @@ from PIL import Image
 from config import API_KEY
 
 class GeminiVisionRunner:
-    def __init__(self, model_name="models/gemini-1.5-flash", image_path=None, prompt=None, runs=3, output_file="gemini_output.txt"):
+    def __init__(self, model_name="gemini-2.5-pro-preview-06-05", image_path=None, prompt=None, runs=3, output_file="gemini_output.txt"):
         self.api_key = API_KEY
         self.model_name = model_name
         self.image_path = image_path

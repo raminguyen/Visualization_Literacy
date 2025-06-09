@@ -4,7 +4,6 @@ import requests
 from dotenv import load_dotenv
 import csv
 
-
 # Load API key from .env file
 load_dotenv()
 
