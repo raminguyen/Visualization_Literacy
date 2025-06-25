@@ -6,7 +6,7 @@ from PIL import ImageOps
 import google.generativeai as genai
 import pandas as pd
 
-API_KEY = "AIzaSyC7claYDOUIL8CgfIgKTaHaztnSRySWd4U"
+API_KEY = ""
 
 if not API_KEY or API_KEY.strip() == "":
     print(" ERROR: Gemini API Key not found.")
