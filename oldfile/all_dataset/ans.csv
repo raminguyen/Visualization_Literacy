@@ -1,10 +1,12 @@
 ,dataset,question,answer,question_type
+
 0,line_data.csv,"What was the price of a barrel of oil in February 2015? Options: $57.36, $47.82, $50.24, $39.72, Omit",$50.24,Retrieve Value
 1,line_data.csv,"In which month was the price of a barrel of oil the lowest in 2015? Options: March, May, July,December, Omit",December,Find Extremum
 2,line_data.csv,"What was the price range of a barrel of oil in 2015? Options: $35 - $65, $48.36 - $60.95, $37.04 - $48.36, $37.04 - $60.95, Omit",$37.04 - $60.95 ,Determine Range
 3,line_data.csv,"Over the course of the second half of 2015, the price of a barrel of oil was ____________. Options: rising, falling, staying, Omit",falling,Find Correlations/Trends
 4,line_data.csv,"About how much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit",$15,Make Comparisons
 5,bar_data.csv,"What is the average internet speed in Japan? Options: 10 Mbps, 14 Mbps, 15 Mbps, 16 Mbps, Omit",15 Mbps,Retrieve Value
+
 6,bar_data.csv,"In which country is the average internet speed the fastest in Asia? Options: China, Hong Kong, South Korea, Vietnam, Omit",South Korea,Find Extremum
 7,bar_data.csv,"What is the range of the average internet speed in Asia? Options: 0 - 22 Mbps, 2 - 20.5 Mbps, 3 - 20 Mbps, 3.4 - 7.8 Mbps, Omit",2 - 20.5 Mbps ,Determine Range
 8,bar_data.csv,"How many countries in Asia is the average internet speed slower than Thailand? Options: 5 countries, 6 countries, 7 countries, 8 countries, Omit",7 countries,Make Comparisons
