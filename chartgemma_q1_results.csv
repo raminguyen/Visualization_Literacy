@@ -1,0 +1,101 @@
+Image,Run,Prediction,Answer Time (s),Correct?
+Q1_img10_Burlywood.png,1,"About how much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit. Answer only.
+$45",92.54,Correct
+Q1_img10_Burlywood.png,2,"About how much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit. Answer only.
+$45",96.85,Correct
+Q1_img10_Burlywood.png,3,"About how much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit. Answer only.
+$45",101.06,Correct
+Q1_img10_Burlywood.png,4,"About how much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit. Answer only.
+$45",96.22,Correct
+Q1_img10_Burlywood.png,5,"About how much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit. Answer only.
+$45",102.12,Correct
+Q1_img1_Red.png,1,"About how much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit. Answer only.
+$45",101.95,Correct
+Q1_img1_Red.png,2,"About how much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit. Answer only.
+$45",95.21,Correct
+Q1_img1_Red.png,3,"About how much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit. Answer only.
+$45",93.34,Correct
+Q1_img1_Red.png,4,"About how much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit. Answer only.
+$45",96.91,Correct
+Q1_img1_Red.png,5,"About how much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit. Answer only.
+$45",95.67,Correct
+Q1_img2_Saddlebrown.png,1,"About how much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit. Answer only.
+$45",88.79,Correct
+Q1_img2_Saddlebrown.png,2,"About how much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit. Answer only.
+$45",86.57,Correct
+Q1_img2_Saddlebrown.png,3,"About how much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit. Answer only.
+$45",85.39,Correct
+Q1_img2_Saddlebrown.png,4,"About how much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit. Answer only.
+$45",92.51,Correct
+Q1_img2_Saddlebrown.png,5,"About how much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit. Answer only.
+$45",88.62,Correct
+Q1_img3_Lightgray.png,1,"About how much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit. Answer only.
+$45",89.04,Correct
+Q1_img3_Lightgray.png,2,"About how much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit. Answer only.
+$45",85.71,Correct
+Q1_img3_Lightgray.png,3,"About how much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit. Answer only.
+$45",88.25,Correct
+Q1_img3_Lightgray.png,4,"About how much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit. Answer only.
+$45",85.36,Correct
+Q1_img3_Lightgray.png,5,"About how much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit. Answer only.
+$45",85.12,Correct
+Q1_img4_Lightpink.png,1,"About how much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit. Answer only.
+$45",87.2,Correct
+Q1_img4_Lightpink.png,2,"About how much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit. Answer only.
+$45",87.22,Correct
+Q1_img4_Lightpink.png,3,"About how much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit. Answer only.
+$45",87.8,Correct
+Q1_img4_Lightpink.png,4,"About how much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit. Answer only.
+$45",84.82,Correct
+Q1_img4_Lightpink.png,5,"About how much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit. Answer only.
+$45",85.82,Correct
+Q1_img5_Navy.png,1,"About how much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit. Answer only.
+$45",91.16,Correct
+Q1_img5_Navy.png,2,"About how much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit. Answer only.
+$45",85.55,Correct
+Q1_img5_Navy.png,3,"About how much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit. Answer only.
+$45",92.51,Correct
+Q1_img5_Navy.png,4,"About how much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit. Answer only.
+$45",88.27,Correct
+Q1_img5_Navy.png,5,"About how much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit. Answer only.
+$45",91.52,Correct
+Q1_img6_Tomato.png,1,"About how much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit. Answer only.
+$45",87.95,Correct
+Q1_img6_Tomato.png,2,"About how much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit. Answer only.
+$45",91.53,Correct
+Q1_img6_Tomato.png,3,"About how much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit. Answer only.
+$45",89.5,Correct
+Q1_img6_Tomato.png,4,"About how much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit. Answer only.
+$45",88.35,Correct
+Q1_img6_Tomato.png,5,"About how much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit. Answer only.
+$45",89.27,Correct
+Q1_img7_Black.png,1,"About how much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit. Answer only.
+$45",85.88,Correct
+Q1_img7_Black.png,2,"About how much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit. Answer only.
+$45",93.25,Correct
+Q1_img7_Black.png,3,"About how much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit. Answer only.
+$45",96.08,Correct
+Q1_img7_Black.png,4,"About how much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit. Answer only.
+$45",90.53,Correct
+Q1_img7_Black.png,5,"About how much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit. Answer only.
+$45",84.1,Correct
+Q1_img8_Mediumvioletred.png,1,"About how much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit. Answer only.
+$45",90.34,Correct
+Q1_img8_Mediumvioletred.png,2,"About how much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit. Answer only.
+$45",90.39,Correct
+Q1_img8_Mediumvioletred.png,3,"About how much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit. Answer only.
+$45",97.42,Correct
+Q1_img8_Mediumvioletred.png,4,"About how much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit. Answer only.
+$45",91.39,Correct
+Q1_img8_Mediumvioletred.png,5,"About how much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit. Answer only.
+$45",87.37,Correct
+Q1_img9_Chartreuse.png,1,"About how much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit. Answer only.
+$45",89.88,Correct
+Q1_img9_Chartreuse.png,2,"About how much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit. Answer only.
+$45",88.16,Correct
+Q1_img9_Chartreuse.png,3,"About how much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit. Answer only.
+$45",87.13,Correct
+Q1_img9_Chartreuse.png,4,"About how much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit. Answer only.
+$45",87.13,Correct
+Q1_img9_Chartreuse.png,5,"About how much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit. Answer only.
+$45",92.27,Correct
