@@ -68,7 +68,7 @@ def chart_gemma(model_path: str, processor_path: str):
 
  # === Gemini Model ===
 
-Google_API_KEY = "."  
+Google_API_KEY = "AIzaSyDLJP6EfL4OWkQ4SwvWzkaP7IDQvfxZ0gs"  
 
 #Rami: done for gemini 2.5 pro
 
