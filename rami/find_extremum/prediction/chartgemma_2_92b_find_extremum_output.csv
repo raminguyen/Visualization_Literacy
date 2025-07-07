@@ -1,3 +1,6 @@
+Index,Question Type,Question Description,Prompt,Model Name,Color,Chart Title,Image Path,Ground Truth,Prediction,Answer Time
+img1_run1,Find Extremum,"In which month was the price of a barrel of oil the lowest in 2015? Options: March, May, July, December, Omit.","In which month was the price of a barrel of oil the lowest in 2015? Options: March, May, July, December, Omit.",ChartGemma-2.92B,black,line_data.csv,/Users/ramihuunguyen/Documents/PhD/Visualization_Literacy/Visualization_Literacy/rami/find_extremum/find_extreum_images/find_extremum_line_Monthly_Oil_Price_History_in_2015_black.png,December," In which month was the price of a barrel of oil the lowest in 2015? Options: March, May, July, December, Omit.
+March",2.62
 img1_run2,Find Extremum,"In which month was the price of a barrel of oil the lowest in 2015? Options: March, May, July, December, Omit.","In which month was the price of a barrel of oil the lowest in 2015? Options: March, May, July, December, Omit.",ChartGemma-2.92B,black,line_data.csv,/Users/ramihuunguyen/Documents/PhD/Visualization_Literacy/Visualization_Literacy/rami/find_extremum/find_extreum_images/find_extremum_line_Monthly_Oil_Price_History_in_2015_black.png,December," In which month was the price of a barrel of oil the lowest in 2015? Options: March, May, July, December, Omit.
 March",2.62
 img1_run3,Find Extremum,"In which month was the price of a barrel of oil the lowest in 2015? Options: March, May, July, December, Omit.","In which month was the price of a barrel of oil the lowest in 2015? Options: March, May, July, December, Omit.",ChartGemma-2.92B,black,line_data.csv,/Users/ramihuunguyen/Documents/PhD/Visualization_Literacy/Visualization_Literacy/rami/find_extremum/find_extreum_images/find_extremum_line_Monthly_Oil_Price_History_in_2015_black.png,December," In which month was the price of a barrel of oil the lowest in 2015? Options: March, May, July, December, Omit.
@@ -96,16 +99,3 @@ img10_run4,Find Extremum,"In which month was the price of a barrel of oil the lo
 The price was the lowest in December.",3.36
 img10_run5,Find Extremum,"In which month was the price of a barrel of oil the lowest in 2015? Options: March, May, July, December, Omit.","In which month was the price of a barrel of oil the lowest in 2015? Options: March, May, July, December, Omit.",ChartGemma-2.92B,tomato,line_data.csv,/Users/ramihuunguyen/Documents/PhD/Visualization_Literacy/Visualization_Literacy/rami/find_extremum/find_extreum_images/find_extremum_line_Monthly_Oil_Price_History_in_2015_tomato.png,December," In which month was the price of a barrel of oil the lowest in 2015? Options: March, May, July, December, Omit.
 The price was the lowest in December.",3.36
-
-Summary Type,Model Name,Count
-Total Predictions,ChartGemma-2.92B,50
-Color: black,,5
-Color: burlywood,,5
-Color: chartreuse,,5
-Color: lightgray,,5
-Color: lightpink,,5
-Color: mediumvioletred,,5
-Color: navy,,5
-Color: red,,5
-Color: saddlebrown,,5
-Color: tomato,,5
