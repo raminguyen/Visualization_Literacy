@@ -1,0 +1,508 @@
+Image,Run,Prompt,Chart Title,Question Type,Ground Truth,Model Name,Prediction,Answer Time (s),Correct
+Q1_img10_Burlywood.png,1,"How much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit",Make Comparisons,Make Comparison,$15,Gemini Pro,"Based on the line chart provided:
+
+1.  **Find the price in April:** Locate ""Apr"" on the x-axis (Month). The corresponding point on the line graph aligns with the **$60** mark on the y-axis (Price (US$)).
+2.  **Find the price in September:** Locate ""Sep"" on the x-axis. The corresponding point on the line graph aligns with the **$45** mark on the y-axis.
+3.  **Calculate the difference:** Subtract the September price from the April price to find the fall.
+    $60 - $45 = $15
+
+The price of a barrel of oil fell by **$15** from April to September.
+
+Therefore, the correct option is **$15**.",11.38,Correct
+Q1_img10_Burlywood.png,2,"How much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit",Make Comparisons,Make Comparison,$15,Gemini Pro,"Based on the line chart provided:
+
+1.  **Find the price in April:** Locate ""Apr"" on the x-axis (Month). Follow the line up to the data point and then across to the y-axis (Price (US$)). The price in April is **$60**.
+
+2.  **Find the price in September:** Locate ""Sep"" on the x-axis. Follow the line up to the data point and then across to the y-axis. The price in September is **$45**.
+
+3.  **Calculate the difference:** To find how much the price fell, subtract the September price from the April price.
+    $60 - $45 = **$15**
+
+Therefore, the price of a barrel of oil fell by **$15** from April to September.
+
+The correct option is **$15**.",10.95,Correct
+Q1_img10_Burlywood.png,3,"How much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit",Make Comparisons,Make Comparison,$15,Gemini Pro,"Based on the line chart provided:
+
+1.  **Find the price in April:** Locate ""Apr"" on the x-axis (Month). The corresponding point on the line graph aligns with the **$60** mark on the y-axis (Price (US$)).
+2.  **Find the price in September:** Locate ""Sep"" on the x-axis. The corresponding point on the line graph aligns with the **$45** mark on the y-axis.
+3.  **Calculate the fall in price:** Subtract the September price from the April price.
+    $60 - $45 = $15
+
+The price of a barrel of oil fell by **$15** from April to September.
+
+Therefore, the correct option is **$15**.",8.67,Correct
+Q1_img10_Burlywood.png,4,"How much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit",Make Comparisons,Make Comparison,$15,Gemini Pro,"Based on the line chart provided:
+
+1.  **Find the price in April:** Locate ""Apr"" on the x-axis (Month). The corresponding point on the line graph is at the **$60** mark on the y-axis (Price (US$)).
+2.  **Find the price in September:** Locate ""Sep"" on the x-axis. The corresponding point on the line graph is at the **$45** mark on the y-axis.
+3.  **Calculate the difference:** To find how much the price fell, subtract the September price from the April price.
+    $60 - $45 = $15
+
+The price of a barrel of oil fell by **$15** from April to September.
+
+Therefore, the correct option is **$15**.",11.63,Correct
+Q1_img10_Burlywood.png,5,"How much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit",Make Comparisons,Make Comparison,$15,Gemini Pro,"Based on the line chart provided:
+
+1.  **Find the price in April:** Locate ""Apr"" on the x-axis (Month). The corresponding point on the line graph aligns with **$60** on the y-axis (Price US$).
+2.  **Find the price in September:** Locate ""Sep"" on the x-axis. The corresponding point on the line graph aligns with **$45** on the y-axis.
+3.  **Calculate the fall in price:** Subtract the September price from the April price.
+    $60 (April) - $45 (September) = $15
+
+The price of a barrel of oil fell by **$15** from April to September in 2015.",10.07,Correct
+Q1_img1_Red.png,1,"How much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit",Make Comparisons,Make Comparison,$15,Gemini Pro,"Based on the line chart provided:
+
+1.  **Find the price in April:** Locate ""Apr"" on the x-axis. The corresponding point on the red line aligns with **$60** on the y-axis.
+2.  **Find the price in September:** Locate ""Sep"" on the x-axis. The corresponding point on the red line aligns with **$45** on the y-axis.
+3.  **Calculate the difference:** Subtract the September price from the April price.
+    $60 - $45 = $15
+
+The price of a barrel of oil fell by **$15** from April to September.
+
+Therefore, the correct option is **$15**.",9.8,Correct
+Q1_img1_Red.png,2,"How much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit",Make Comparisons,Make Comparison,$15,Gemini Pro,"Based on the line chart provided:
+
+1.  **Find the price in April:** Locate ""Apr"" on the x-axis. The corresponding data point on the red line is at the level of **$60** on the y-axis.
+2.  **Find the price in September:** Locate ""Sep"" on the x-axis. The corresponding data point on the red line is at the level of **$45** on the y-axis.
+3.  **Calculate the fall in price:** Subtract the September price from the April price.
+    $60 - $45 = $15
+
+The price of a barrel of oil fell by **$15** from April to September.",10.01,Correct
+Q1_img1_Red.png,3,"How much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit",Make Comparisons,Make Comparison,$15,Gemini Pro,"Based on the line chart provided:
+
+1.  **Find the price in April:** Locate ""Apr"" on the x-axis (Month). Follow the line up to the data point on the red line. Then, trace horizontally to the y-axis (Price (US$)). The price in April was **$60**.
+
+2.  **Find the price in September:** Locate ""Sep"" on the x-axis. Follow the line up to the data point on the red line. Then, trace horizontally to the y-axis. The price in September was **$45**.
+
+3.  **Calculate the fall in price:** Subtract the September price from the April price.
+    $60 - $45 = **$15**
+
+The price of a barrel of oil fell by **$15** from April to September.",9.86,Correct
+Q1_img1_Red.png,4,"How much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit",Make Comparisons,Make Comparison,$15,Gemini Pro,"Based on the line chart provided:
+
+1.  **Find the price in April:** Locate ""Apr"" on the x-axis (Month). The corresponding point on the red line aligns with **$60** on the y-axis (Price (US$)).
+2.  **Find the price in September:** Locate ""Sep"" on the x-axis. The corresponding point on the red line aligns with **$45** on the y-axis.
+3.  **Calculate the fall in price:** Subtract the September price from the April price.
+    $60 (April) - $45 (September) = $15
+
+The price of a barrel of oil fell by **$15** from April to September.
+
+Therefore, the correct option is **$15**.",9.72,Correct
+Q1_img1_Red.png,5,"How much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit",Make Comparisons,Make Comparison,$15,Gemini Pro,"Based on the line chart:
+
+1.  **Find the price in April:** Locate ""Apr"" on the x-axis (Month). The corresponding point on the red line is at the level of **$60** on the y-axis (Price US$).
+2.  **Find the price in September:** Locate ""Sep"" on the x-axis. The corresponding point on the red line is at the level of **$45** on the y-axis.
+3.  **Calculate the fall in price:** Subtract the September price from the April price.
+    $60 - $45 = $15
+
+The price of a barrel of oil fell by **$15** from April to September.
+
+Therefore, the correct option is **$15**.",10.66,Correct
+Q1_img2_Saddlebrown.png,1,"How much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit",Make Comparisons,Make Comparison,$15,Gemini Pro,"Based on the line chart:
+
+1.  **Find the price in April:** Locate ""Apr"" on the x-axis (Month). Follow the line up to the data point. The corresponding value on the y-axis (Price (US$)) is **$60**.
+2.  **Find the price in September:** Locate ""Sep"" on the x-axis. Follow the line up to the data point. The corresponding value on the y-axis is **$45**.
+3.  **Calculate the fall in price:** Subtract the September price from the April price.
+    $60 - $45 = $15
+
+The price of a barrel of oil fell by **$15** from April to September.",10.54,Correct
+Q1_img2_Saddlebrown.png,2,"How much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit",Make Comparisons,Make Comparison,$15,Gemini Pro,"Based on the line chart provided:
+
+1.  **Find the price in April:** Locate ""Apr"" on the x-axis (Month) and follow it up to the line. The corresponding value on the y-axis (Price (US$)) is **$60**.
+2.  **Find the price in September:** Locate ""Sep"" on the x-axis and follow it up to the line. The corresponding value on the y-axis is **$45**.
+3.  **Calculate the fall in price:** Subtract the September price from the April price.
+    $60 - $45 = $15
+
+The price of a barrel of oil fell by **$15** from April to September.
+
+Therefore, the correct option is **$15**.",14.81,Correct
+Q1_img2_Saddlebrown.png,3,"How much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit",Make Comparisons,Make Comparison,$15,Gemini Pro,"Based on the line graph provided:
+
+1.  **Find the price in April:** Locate ""Apr"" on the x-axis. Follow the line up to the data point. The corresponding value on the y-axis is $60.
+2.  **Find the price in September:** Locate ""Sep"" on the x-axis. Follow the line up to the data point. The corresponding value on the y-axis is $45.
+3.  **Calculate the fall in price:** Subtract the September price from the April price.
+    $60 (April price) - $45 (September price) = $15
+
+The price of a barrel of oil fell by $15 from April to September.
+
+Therefore, the correct option is **$15**.",10.38,Correct
+Q1_img2_Saddlebrown.png,4,"How much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit",Make Comparisons,Make Comparison,$15,Gemini Pro,"Based on the line chart provided:
+
+1.  **Find the price in April:** Locate ""Apr"" on the x-axis. The corresponding data point on the line aligns with the **$60** mark on the y-axis.
+2.  **Find the price in September:** Locate ""Sep"" on the x-axis. The corresponding data point on the line aligns with the **$45** mark on the y-axis.
+3.  **Calculate the fall in price:** Subtract the September price from the April price.
+    $60 (April price) - $45 (September price) = $15.
+
+The price of a barrel of oil fell by **$15** from April to September.
+
+Therefore, the correct option is **$15**.",10.78,Correct
+Q1_img2_Saddlebrown.png,5,"How much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit",Make Comparisons,Make Comparison,$15,Gemini Pro,"Based on the line chart provided:
+
+1.  **Find the price in April:** Locate ""Apr"" on the x-axis. The corresponding point on the line aligns with the $60 mark on the y-axis.
+2.  **Find the price in September:** Locate ""Sep"" on the x-axis. The corresponding point on the line aligns with the $45 mark on the y-axis.
+3.  **Calculate the fall in price:** Subtract the September price from the April price.
+    $60 (April price) - $45 (September price) = $15
+
+The price of a barrel of oil fell by $15 from April to September.
+
+Therefore, the correct option is **$15**.",9.59,Correct
+Q1_img3_Lightgray.png,1,"How much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit",Make Comparisons,Make Comparison,$15,Gemini Pro,"Here is the step-by-step solution based on the provided chart:
+
+1.  **Find the price of oil in April:** Locate ""Apr"" on the horizontal axis (Month). Follow the line up to the data point and then across to the vertical axis (Price (US$)). The price in April was approximately **$60**.
+
+2.  **Find the price of oil in September:** Locate ""Sep"" on the horizontal axis. Follow the line up to the data point and then across to the vertical axis. The price in September was **$45**.
+
+3.  **Calculate the difference (the fall in price):**
+    *   Price in April: $60
+    *   Price in September: $45
+    *   Price Fall = $60 - $45 = **$15**
+
+Comparing this result to the given options, the correct choice is **$15**.",9.83,Correct
+Q1_img3_Lightgray.png,2,"How much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit",Make Comparisons,Make Comparison,$15,Gemini Pro,"Based on the line chart provided:
+
+1.  **Find the price in April:** Locate ""Apr"" on the x-axis (Month). The corresponding point on the line graph aligns with **$60** on the y-axis (Price US$).
+2.  **Find the price in September:** Locate ""Sep"" on the x-axis. The corresponding point on the line graph aligns with **$45** on the y-axis.
+3.  **Calculate the fall in price:** Subtract the September price from the April price.
+    $60 - $45 = $15
+
+The price of a barrel of oil fell by **$15** from April to September.",8.81,Correct
+Q1_img3_Lightgray.png,3,"How much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit",Make Comparisons,Make Comparison,$15,Gemini Pro,"Based on the line chart provided:
+
+1.  **Find the price in April:** Locate ""Apr"" on the x-axis. The corresponding point on the line graph aligns with the **$60** mark on the y-axis.
+2.  **Find the price in September:** Locate ""Sep"" on the x-axis. The corresponding point on the line graph aligns with the **$45** mark on the y-axis.
+3.  **Calculate the difference (the fall):** $60 (April price) - $45 (September price) = **$15**.
+
+Therefore, the price of a barrel of oil fell by $15 from April to September.
+
+The correct option is **$15**.",9.45,Correct
+Q1_img3_Lightgray.png,4,"How much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit",Make Comparisons,Make Comparison,$15,Gemini Pro,"Based on the line chart provided:
+
+1.  **Find the price in April:** Locate ""Apr"" on the x-axis. The corresponding point on the line graph aligns with the **$60** mark on the y-axis.
+2.  **Find the price in September:** Locate ""Sep"" on the x-axis. The corresponding point on the line graph aligns with the **$45** mark on the y-axis.
+3.  **Calculate the difference:** Subtract the September price from the April price to find the fall.
+    $60 - $45 = $15
+
+The price of a barrel of oil fell by **$15** from April to September in 2015.",9.64,Correct
+Q1_img3_Lightgray.png,5,"How much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit",Make Comparisons,Make Comparison,$15,Gemini Pro,"Based on the line chart:
+
+1.  **Find the price in April:** Locate ""Apr"" on the x-axis. The corresponding point on the line graph aligns with the **$60** mark on the y-axis.
+2.  **Find the price in September:** Locate ""Sep"" on the x-axis. The corresponding point on the line graph aligns with the **$45** mark on the y-axis.
+3.  **Calculate the difference:** The fall in price is the price in April minus the price in September.
+    $60 - $45 = $15
+
+Therefore, the price of a barrel of oil fell by **$15** from April to September.",9.71,Correct
+Q1_img4_Lightpink.png,1,"How much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit",Make Comparisons,Make Comparison,$15,Gemini Pro,"Here is a step-by-step analysis of the chart to find the answer:
+
+1.  **Find the price in April:** Locate ""Apr"" on the horizontal (Month) axis. Follow the line up to the data point on the pink line. Then, look across to the vertical (Price) axis. The price in April was **$60**.
+
+2.  **Find the price in September:** Locate ""Sep"" on the horizontal (Month) axis. Follow the line up to the data point on the pink line. Then, look across to the vertical (Price) axis. The price in September was **$45**.
+
+3.  **Calculate the difference:** Subtract the September price from the April price to find how much it fell.
+    $60 (April price) - $45 (September price) = **$15**
+
+Therefore, the price of a barrel of oil fell by **$15** from April to September in 2015.",9.35,Correct
+Q1_img4_Lightpink.png,2,"How much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit",Make Comparisons,Make Comparison,$15,Gemini Pro,"Based on the line chart provided:
+
+1.  **Find the price in April:** Locate ""Apr"" on the x-axis (Month) and find the corresponding point on the line. The value on the y-axis (Price (US$)) for April is **$60**.
+2.  **Find the price in September:** Locate ""Sep"" on the x-axis and find its corresponding point on the line. The value on the y-axis for September is **$45**.
+3.  **Calculate the fall in price:** Subtract the September price from the April price.
+    $60 - $45 = $15
+
+The price of a barrel of oil fell by **$15** from April to September.
+
+Therefore, the correct option is **$15**.",10.64,Correct
+Q1_img4_Lightpink.png,3,"How much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit",Make Comparisons,Make Comparison,$15,Gemini Pro,"Here is a step-by-step breakdown of how to find the answer from the chart:
+
+1.  **Find the price in April:** Locate ""Apr"" on the horizontal (Month) axis. Follow the line up to the data point on the pink line. Then, look across to the vertical (Price) axis. The price in April was **$60**.
+2.  **Find the price in September:** Locate ""Sep"" on the horizontal (Month) axis. Follow the line up to the data point on the pink line. Then, look across to the vertical (Price) axis. The price in September was **$45**.
+3.  **Calculate the difference:** Subtract the September price from the April price.
+    $60 - $45 = $15
+
+The price of a barrel of oil fell by **$15** from April to September.
+
+Therefore, the correct option is **$15**.",10.96,Correct
+Q1_img4_Lightpink.png,4,"How much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit",Make Comparisons,Make Comparison,$15,Gemini Pro,"Based on the line chart provided:
+
+1.  **Find the price in April:** Locate ""Apr"" on the x-axis (Month). The corresponding point on the line graph aligns with the **$60** mark on the y-axis (Price US$).
+2.  **Find the price in September:** Locate ""Sep"" on the x-axis. The corresponding point on the line graph aligns with the **$45** mark on the y-axis.
+3.  **Calculate the fall in price:** Subtract the September price from the April price.
+    $60 - $45 = $15
+
+Therefore, the price of a barrel of oil fell by **$15** from April to September.
+
+The correct option is **$15**.",9.59,Correct
+Q1_img4_Lightpink.png,5,"How much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit",Make Comparisons,Make Comparison,$15,Gemini Pro,"Based on the line chart provided:
+
+1.  **Find the price in April:** Locate ""Apr"" on the x-axis. The corresponding point on the line aligns with **$60** on the y-axis.
+2.  **Find the price in September:** Locate ""Sep"" on the x-axis. The corresponding point on the line aligns with **$45** on the y-axis.
+3.  **Calculate the difference:** The fall in price is the price in April minus the price in September.
+    $60 - $45 = $15
+
+The price of a barrel of oil fell by **$15** from April to September.",8.71,Correct
+Q1_img5_Navy.png,1,"How much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit",Make Comparisons,Make Comparison,$15,Gemini Pro,"Based on the line chart provided:
+
+1.  **Find the price in April:** Locate ""Apr"" on the x-axis (Month). The corresponding point on the line graph aligns with the **$60** mark on the y-axis (Price US$).
+2.  **Find the price in September:** Locate ""Sep"" on the x-axis. The corresponding point on the line graph aligns with the **$45** mark on the y-axis.
+3.  **Calculate the fall in price:** Subtract the September price from the April price.
+    $60 - $45 = $15
+
+The price of a barrel of oil fell by **$15** from April to September in 2015.
+
+Therefore, the correct option is **$15**.",9.03,Correct
+Q1_img5_Navy.png,2,"How much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit",Make Comparisons,Make Comparison,$15,Gemini Pro,"To determine how much the price of a barrel of oil fell from April to September, we need to find the price at each of those months from the chart and then calculate the difference.
+
+1.  **Find the price in April:** Locate ""Apr"" on the x-axis (Month). Follow the line up to the data point on the graph. Then, look across to the y-axis (Price (US$)). The price in April was **$60**.
+
+2.  **Find the price in September:** Locate ""Sep"" on the x-axis. Follow the line up to the data point on the graph. Then, look across to the y-axis. The price in September was **$45**.
+
+3.  **Calculate the difference:** Subtract the September price from the April price to find the fall.
+    $60 (April price) - $45 (September price) = **$15**
+
+The price of a barrel of oil fell by $15 from April to September.
+
+Comparing this result to the given options:
+*   $4
+*   **$15**
+*   $17
+*   $45
+*   Omit
+
+The correct option is **$15**.",10.57,Correct
+Q1_img5_Navy.png,3,"How much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit",Make Comparisons,Make Comparison,$15,Gemini Pro,"Based on the line chart provided:
+
+1.  **Find the price of oil in April:** Locate ""Apr"" on the x-axis (Month) and trace up to the line. The corresponding value on the y-axis (Price (US$)) is **$60**.
+2.  **Find the price of oil in September:** Locate ""Sep"" on the x-axis and trace up to the line. The corresponding value on the y-axis is **$45**.
+3.  **Calculate the difference:** To find how much the price fell, subtract the September price from the April price.
+    $60 - $45 = $15
+
+The price of a barrel of oil fell by **$15** from April to September.",7.6,Correct
+Q1_img5_Navy.png,4,"How much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit",Make Comparisons,Make Comparison,$15,Gemini Pro,"To find the fall in the price of a barrel of oil from April to September, we need to read the values from the chart for these two months and calculate the difference.
+
+1.  **Find the price in April:** Locate ""Apr"" on the horizontal axis (Month). Follow the line up to the data point on the graph. Then, look across to the vertical axis (Price (US$)). The price in April is **$60**.
+
+2.  **Find the price in September:** Locate ""Sep"" on the horizontal axis. Follow the line up to the data point on the graph. Then, look across to the vertical axis. The price in September is **$45**.
+
+3.  **Calculate the fall in price:** Subtract the September price from the April price.
+    Fall = Price in April - Price in September
+    Fall = $60 - $45 = **$15**
+
+Comparing this result to the given options, the correct answer is **$15**.",8.71,Correct
+Q1_img5_Navy.png,5,"How much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit",Make Comparisons,Make Comparison,$15,Gemini Pro,"Based on the line chart provided:
+
+1.  **Find the price in April:** Locate ""Apr"" on the x-axis (Month). The corresponding data point on the line aligns with **$60** on the y-axis (Price (US$)).
+2.  **Find the price in September:** Locate ""Sep"" on the x-axis. The corresponding data point on the line aligns with **$45** on the y-axis.
+3.  **Calculate the fall in price:** Subtract the September price from the April price.
+    $60 - $45 = $15
+
+The price of a barrel of oil fell by **$15** from April to September.
+
+Therefore, the correct option is **$15**.",9.09,Correct
+Q1_img6_Tomato.png,1,"How much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit",Make Comparisons,Make Comparison,$15,Gemini Pro,"Based on the line graph provided:
+
+1.  **Find the price in April:** Locate ""Apr"" on the x-axis (Month). Follow the line up to the data point, which aligns with the **$60** mark on the y-axis (Price (US$)).
+2.  **Find the price in September:** Locate ""Sep"" on the x-axis. Follow the line up to the data point, which aligns with the **$45** mark on the y-axis.
+3.  **Calculate the fall in price:** Subtract the September price from the April price.
+    $60 - $45 = $15
+
+The price of a barrel of oil fell by **$15** from April to September.
+
+Therefore, the correct option is **$15**.",10.0,Correct
+Q1_img6_Tomato.png,2,"How much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit",Make Comparisons,Make Comparison,$15,Gemini Pro,"Based on the line chart provided:
+
+1.  **Find the price of oil in April:** Locate ""Apr"" on the x-axis (Month). Follow the line up to the data point, which aligns with **$60** on the y-axis (Price (US$)).
+2.  **Find the price of oil in September:** Locate ""Sep"" on the x-axis. Follow the line up to the data point, which aligns with **$45** on the y-axis.
+3.  **Calculate the difference:** To find how much the price fell, subtract the September price from the April price:
+    $60 - $45 = $15
+
+Therefore, the price of a barrel of oil fell by **$15** from April to September in 2015.",8.88,Correct
+Q1_img6_Tomato.png,3,"How much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit",Make Comparisons,Make Comparison,$15,Gemini Pro,"Based on the line chart provided:
+
+1.  **Find the price in April:** Locate ""Apr"" on the x-axis (Month). The corresponding point on the line graph aligns with **$60** on the y-axis (Price (US$)).
+2.  **Find the price in September:** Locate ""Sep"" on the x-axis. The corresponding point on the line graph aligns with **$45** on the y-axis.
+3.  **Calculate the fall in price:** Subtract the September price from the April price.
+    $60 - $45 = $15
+
+The price of a barrel of oil fell by **$15** from April to September in 2015.",9.73,Correct
+Q1_img6_Tomato.png,4,"How much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit",Make Comparisons,Make Comparison,$15,Gemini Pro,"Based on the line chart provided:
+
+1.  **Find the price in April:** Locate ""Apr"" on the x-axis (Month). Follow the line up to the data point, which aligns with **$60** on the y-axis (Price US$).
+2.  **Find the price in September:** Locate ""Sep"" on the x-axis. Follow the line up to the data point, which aligns with **$45** on the y-axis.
+3.  **Calculate the fall in price:** Subtract the September price from the April price.
+    $60 - $45 = $15
+
+The price of a barrel of oil fell by $15 from April to September.
+
+Therefore, the correct option is **$15**.",9.27,Correct
+Q1_img6_Tomato.png,5,"How much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit",Make Comparisons,Make Comparison,$15,Gemini Pro,"Based on the line chart:
+
+1.  **Find the price of oil in April:** Locate ""Apr"" on the x-axis. Follow the line up to the data point, which aligns with **$60** on the y-axis.
+2.  **Find the price of oil in September:** Locate ""Sep"" on the x-axis. Follow the line up to the data point, which aligns with **$45** on the y-axis.
+3.  **Calculate the fall in price:** Subtract the September price from the April price.
+    $60 - $45 = $15
+
+The price of a barrel of oil fell by **$15** from April to September.",10.01,Correct
+Q1_img7_Black.png,1,"How much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit",Make Comparisons,Make Comparison,$15,Gemini Pro,"Based on the line chart provided:
+
+1.  **Find the price in April:** Locate ""Apr"" on the x-axis (Month). The corresponding point on the line graph aligns with the **$60** mark on the y-axis (Price (US$)).
+2.  **Find the price in September:** Locate ""Sep"" on the x-axis. The corresponding point on the line graph aligns with the **$45** mark on the y-axis.
+3.  **Calculate the fall in price:** Subtract the September price from the April price.
+    $60 - $45 = $15
+
+The price of a barrel of oil fell by **$15** from April to September.
+
+Therefore, the correct option is **$15**.",10.9,Correct
+Q1_img7_Black.png,2,"How much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit",Make Comparisons,Make Comparison,$15,Gemini Pro,"Based on the line chart provided:
+
+1.  **Find the price in April:** Locate ""Apr"" on the x-axis (Month). Follow the line up to the data point and then across to the y-axis (Price (US$)). The price in April was **$60**.
+2.  **Find the price in September:** Locate ""Sep"" on the x-axis. Follow the line up to the data point and then across to the y-axis. The price in September was **$45**.
+3.  **Calculate the fall in price:** Subtract the September price from the April price.
+    $60 - $45 = $15
+
+The price of a barrel of oil fell by **$15** from April to September in 2015.
+
+Therefore, the correct option is **$15**.",9.7,Correct
+Q1_img7_Black.png,3,"How much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit",Make Comparisons,Make Comparison,$15,Gemini Pro,"Based on the line chart, we can determine the price of a barrel of oil for the specified months:
+
+1.  **Find the price in April:** Locate ""Apr"" on the x-axis. Follow the line up to the data point, which aligns with **$60** on the y-axis.
+2.  **Find the price in September:** Locate ""Sep"" on the x-axis. Follow the line up to the data point, which aligns with **$45** on the y-axis.
+3.  **Calculate the fall in price:** Subtract the September price from the April price.
+    $60 - $45 = $15
+
+The price of a barrel of oil fell by **$15** from April to September.
+
+Therefore, the correct option is **$15**.",12.41,Correct
+Q1_img7_Black.png,4,"How much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit",Make Comparisons,Make Comparison,$15,Gemini Pro,"Based on the line graph provided:
+
+1.  **Find the price in April:** Locate ""Apr"" on the x-axis. The corresponding point on the line aligns with the **$60** mark on the y-axis.
+2.  **Find the price in September:** Locate ""Sep"" on the x-axis. The corresponding point on the line aligns with the **$45** mark on the y-axis.
+3.  **Calculate the difference:** The fall in price is the price in April minus the price in September.
+    $60 - $45 = $15
+
+Therefore, the price of a barrel of oil fell by **$15** from April to September.",9.2,Correct
+Q1_img7_Black.png,5,"How much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit",Make Comparisons,Make Comparison,$15,Gemini Pro,"Based on the line chart:
+
+1.  **Find the price in April:** Locate ""Apr"" on the x-axis (Month). The corresponding point on the line aligns with **$60** on the y-axis (Price US$).
+2.  **Find the price in September:** Locate ""Sep"" on the x-axis. The corresponding point on the line aligns with **$45** on the y-axis.
+3.  **Calculate the fall:** Subtract the September price from the April price: $60 - $45 = $15.
+
+The price of a barrel of oil fell by $15 from April to September in 2015.
+
+Therefore, the correct option is **$15**.",9.21,Correct
+Q1_img8_Mediumvioletred.png,1,"How much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit",Make Comparisons,Make Comparison,$15,Gemini Pro,"To find out how much the price of a barrel of oil fell from April to September, we need to read the values from the chart for those two months and calculate the difference.
+
+1.  **Find the price in April:** Locate ""Apr"" on the x-axis (Month). Follow the line up to the data point. The corresponding value on the y-axis (Price (US$)) is **$60**.
+2.  **Find the price in September:** Locate ""Sep"" on the x-axis. Follow the line up to the data point. The corresponding value on the y-axis is **$45**.
+3.  **Calculate the fall in price:** Subtract the September price from the April price.
+    $60 - $45 = $15
+
+The price of a barrel of oil fell by **$15** from April to September.
+
+Comparing this to the options:
+*   $4
+*   **$15**
+*   $17
+*   $45
+*   Omit
+
+The correct option is **$15**.",8.99,Correct
+Q1_img8_Mediumvioletred.png,2,"How much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit",Make Comparisons,Make Comparison,$15,Gemini Pro,"Based on the line chart provided:
+
+1.  **Find the price of oil in April:** Locate ""Apr"" on the x-axis (Month). Follow the line up to the data point and then across to the y-axis (Price (US$)). The price in April was **$60**.
+2.  **Find the price of oil in September:** Locate ""Sep"" on the x-axis. Follow the line up to the data point and then across to the y-axis. The price in September was **$45**.
+3.  **Calculate the difference (the fall):** Subtract the September price from the April price.
+    $60 - $45 = $15
+
+The price of a barrel of oil fell by **$15** from April to September.
+
+Therefore, the correct option is **$15**.",9.1,Correct
+Q1_img8_Mediumvioletred.png,3,"How much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit",Make Comparisons,Make Comparison,$15,Gemini Pro,"Based on the line graph:
+
+1.  **Find the price in April:** Locate ""Apr"" on the x-axis. The corresponding point on the line aligns with the $60 mark on the y-axis.
+2.  **Find the price in September:** Locate ""Sep"" on the x-axis. The corresponding point on the line aligns with the $45 mark on the y-axis.
+3.  **Calculate the difference:** The price fell from $60 to $45.
+    $60 - $45 = $15
+
+The price of a barrel of oil fell by **$15** from April to September.",9.91,Correct
+Q1_img8_Mediumvioletred.png,4,"How much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit",Make Comparisons,Make Comparison,$15,Gemini Pro,"Based on the line chart provided:
+
+1.  **Find the price in April:** Locate ""Apr"" on the x-axis (Month). Follow the line up to the data point, which aligns with the **$60** mark on the y-axis (Price (US$)).
+2.  **Find the price in September:** Locate ""Sep"" on the x-axis. Follow the line up to the data point, which aligns with the **$45** mark on the y-axis.
+3.  **Calculate the difference:** To find how much the price fell, subtract the September price from the April price.
+    $60 - $45 = $15
+
+The price of a barrel of oil fell by **$15** from April to September.
+
+Comparing this to the options provided, the correct answer is **$15**.",10.18,Correct
+Q1_img8_Mediumvioletred.png,5,"How much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit",Make Comparisons,Make Comparison,$15,Gemini Pro,"To determine how much the price of a barrel of oil fell from April to September in 2015, we need to find the prices for those two months from the chart and calculate the difference.
+
+1.  **Find the price in April:** Locate ""Apr"" on the horizontal (Month) axis. Follow the line up to the data point on the graph. The corresponding value on the vertical (Price (US$)) axis is **$60**.
+
+2.  **Find the price in September:** Locate ""Sep"" on the horizontal axis. Follow the line up to the data point on the graph. The corresponding value on the vertical axis is **$45**.
+
+3.  **Calculate the fall in price:** Subtract the September price from the April price.
+    $60 - $45 = $15
+
+The price of a barrel of oil fell by **$15** from April to September.
+
+Comparing this to the options provided:
+*   $4
+*   **$15**
+*   $17
+*   $45
+*   Omit
+
+The correct option is **$15**.",9.4,Correct
+Q1_img9_Chartreuse.png,1,"How much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit",Make Comparisons,Make Comparison,$15,Gemini Pro,"Based on the line chart provided:
+
+1.  **Find the price in April:** Locate ""Apr"" on the x-axis (Month). The corresponding point on the line graph aligns with **$60** on the y-axis (Price (US$)).
+2.  **Find the price in September:** Locate ""Sep"" on the x-axis. The corresponding point on the line graph aligns with **$45** on the y-axis.
+3.  **Calculate the fall in price:** Subtract the September price from the April price.
+    $60 (April) - $45 (September) = **$15**
+
+The price of a barrel of oil fell by $15 from April to September.
+
+Therefore, the correct option is **$15**.",9.44,Correct
+Q1_img9_Chartreuse.png,2,"How much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit",Make Comparisons,Make Comparison,$15,Gemini Pro,"Based on the line chart provided:
+
+1.  **Find the price in April:** Locate ""Apr"" on the x-axis (Month). Follow the line up to the data point, which aligns with **$60** on the y-axis (Price (US$)).
+2.  **Find the price in September:** Locate ""Sep"" on the x-axis. Follow the line up to the data point, which aligns with **$45** on the y-axis.
+3.  **Calculate the difference:** The price fell from $60 to $45.
+    $60 - $45 = $15
+
+The price of a barrel of oil fell by **$15** from April to September.",9.55,Correct
+Q1_img9_Chartreuse.png,3,"How much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit",Make Comparisons,Make Comparison,$15,Gemini Pro,"Based on the provided line chart, let's find the price of a barrel of oil for April and September.
+
+1.  **Find the price in April:** Locate ""Apr"" on the x-axis (Month). Follow the line up to the data point. The corresponding value on the y-axis (Price (US$)) is **$60**.
+
+2.  **Find the price in September:** Locate ""Sep"" on the x-axis. Follow the line up to the data point. The corresponding value on the y-axis is **$45**.
+
+3.  **Calculate the difference:** To find how much the price fell, subtract the September price from the April price.
+    $60 (April price) - $45 (September price) = **$15**
+
+The price of a barrel of oil fell by $15 from April to September.
+
+Comparing this to the options:
+*   $4
+*   **$15**
+*   $17
+*   $45
+*   Omit
+
+The correct option is **$15**.",9.9,Correct
+Q1_img9_Chartreuse.png,4,"How much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit",Make Comparisons,Make Comparison,$15,Gemini Pro,"Based on the line chart provided:
+
+1.  **Find the price in April:** Locate ""Apr"" on the x-axis (Month). The corresponding point on the line graph aligns with **$60** on the y-axis (Price (US$)).
+2.  **Find the price in September:** Locate ""Sep"" on the x-axis. The corresponding point on the line graph aligns with **$45** on the y-axis.
+3.  **Calculate the difference:** The fall in price is the price in April minus the price in September.
+    $60 - $45 = $15
+
+The price of a barrel of oil fell by **$15** from April to September.",9.78,Correct
+Q1_img9_Chartreuse.png,5,"How much did the price of a barrel of oil fall from April to September in 2015? Options: $4, $15, $17, $45, Omit",Make Comparisons,Make Comparison,$15,Gemini Pro,"Based on the line chart provided:
+
+1.  **Find the price in April:** Locate ""Apr"" on the x-axis (Month). Follow the line up to the data point. The corresponding value on the y-axis (Price (US$)) is $60.
+2.  **Find the price in September:** Locate ""Sep"" on the x-axis. Follow the line up to the data point. The corresponding value on the y-axis is $45.
+3.  **Calculate the difference:** To find how much the price fell, subtract the September price from the April price.
+    $60 (April) - $45 (September) = $15.
+
+The price of a barrel of oil fell by $15 from April to September.
+
+Therefore, the correct option is **$15**.",12.48,Correct

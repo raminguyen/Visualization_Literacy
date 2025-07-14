@@ -1,0 +1,51 @@
+index,image,run,color,response
+1,Q161_img1.png,1,red,15
+2,Q161_img1.png,2,red,15
+3,Q161_img1.png,3,red,$15
+4,Q161_img1.png,4,red,15
+5,Q161_img1.png,5,red,15
+6,Q161_img10.png,1,tomato,$15
+7,Q161_img10.png,2,tomato,$15
+8,Q161_img10.png,3,tomato,$15
+9,Q161_img10.png,4,tomato,15
+10,Q161_img10.png,5,tomato,$15
+11,Q161_img2.png,1,navy,15
+12,Q161_img2.png,2,navy,$15
+13,Q161_img2.png,3,navy,15
+14,Q161_img2.png,4,navy,$15
+15,Q161_img2.png,5,navy,$15
+16,Q161_img3.png,1,chartreuse,$15
+17,Q161_img3.png,2,chartreuse,15
+18,Q161_img3.png,3,chartreuse,$15
+19,Q161_img3.png,4,chartreuse,15
+20,Q161_img3.png,5,chartreuse,$15
+21,Q161_img4.png,1,orange,15
+22,Q161_img4.png,2,orange,15
+23,Q161_img4.png,3,orange,$15
+24,Q161_img4.png,4,orange,$15
+25,Q161_img4.png,5,orange,15
+26,Q161_img5.png,1,medium violet,15
+27,Q161_img5.png,2,medium violet,15
+28,Q161_img5.png,3,medium violet,15
+29,Q161_img5.png,4,medium violet,15
+30,Q161_img5.png,5,medium violet,15
+31,Q161_img6.png,1,saddle brown,15
+32,Q161_img6.png,2,saddle brown,15
+33,Q161_img6.png,3,saddle brown,15
+34,Q161_img6.png,4,saddle brown,15
+35,Q161_img6.png,5,saddle brown,15
+36,Q161_img7.png,1,black,$15
+37,Q161_img7.png,2,black,15
+38,Q161_img7.png,3,black,$15
+39,Q161_img7.png,4,black,$15
+40,Q161_img7.png,5,black,$15
+41,Q161_img8.png,1,light pink,15
+42,Q161_img8.png,2,light pink,15
+43,Q161_img8.png,3,light pink,15
+44,Q161_img8.png,4,light pink,15
+45,Q161_img8.png,5,light pink,15
+46,Q161_img9.png,1,light gray,$15
+47,Q161_img9.png,2,light gray,15
+48,Q161_img9.png,3,light gray,15
+49,Q161_img9.png,4,light gray,15
+50,Q161_img9.png,5,light gray,$15
